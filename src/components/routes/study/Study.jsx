@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '../../navbar/Navbar'
-import './Study.css'
+import Navbar from '../../Navbar'
+import '../../style/Study.css'
 
 const Study = () => {
   return (

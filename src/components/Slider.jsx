@@ -1,13 +1,13 @@
 import React from 'react'
 import Carousel, { slidesToShowPlugin, slidesToScrollPlugin } from '@brainhubeu/react-carousel'
 import '@brainhubeu/react-carousel/lib/style.css'
-import './Slider.css'
+import './style/Slider.css'
 
-import toDo from '../../media/b88ecdf9b57f13f03abe0d93297a236e.jpg';
-import rick from '../../media/rickAndMorty.jpg';
-import gogle from '../../media/clonGoogle.jpg';
-import colorPicekt from '../../media/colorPicekt.jpg';
-import Próximamente from '../../media/proximamente.jpg';
+import toDo from '../media/b88ecdf9b57f13f03abe0d93297a236e.jpg';
+import rick from '../media/rickAndMorty.jpg';
+import gogle from '../media/clonGoogle.jpg';
+import colorPicekt from '../media/colorPicekt.jpg';
+import Próximamente from '../media/proximamente.jpg';
 
 const Slider = () => {
 

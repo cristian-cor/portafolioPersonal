@@ -1,5 +1,5 @@
 import React from 'react'
-import './Info.css'
+import './style/Info.css'
 const Info = () => {
   return (
     <div className="info-container">
